@@ -47,8 +47,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, suggestions, or issues, please feel free to reach out to us:
 
-- Email: your-email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: pankajbind30@gmail.com
+- GitHub: [Your GitHub Profile](https://github.com/Pankaj-Bind)
 
 ## Acknowledgments
 
