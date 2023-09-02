@@ -1,62 +1,64 @@
-# Java Quiz Planner
+# QuizPlanner
+
+QuizPlanner is a Java-based console application for creating, taking, viewing, and managing quizzes. It allows users to create quizzes with multiple-choice questions, take quizzes, view quiz details, and list available quizzes.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
-Welcome to the Java Quiz Planner! This Java application allows users to plan and organize quizzes efficiently. Whether you are an educator, a student, or someone who wants to create and manage quizzes, this tool is designed to simplify the process.
+The **QuizPlanner** program provides a simple and interactive way to create, take, and manage quizzes. It offers the following commands:
 
-## Features
+- **create**: Create a new quiz by specifying the quiz name and adding multiple-choice questions.
+- **take**: Take a quiz by selecting your answers to the questions and receive a score at the end.
+- **view**: View the details of a quiz, including its questions and correct answers.
+- **list**: List all available quizzes.
+- **exit**: Exit the program.
 
-- **Quiz Creation**: Easily create quizzes by adding questions and answer choices.
-- **Quiz Management**: Edit, delete, or reorder questions within your quizzes.
-- **Export**: Export quizzes to various formats for sharing or printing.
-- **User-Friendly Interface**: Intuitive and user-friendly graphical interface.
-- **Customization**: Customize quiz settings, such as time limits and scoring rules.
-- **Compatibility**: Works on Windows, macOS, and Linux.
+## Prerequisites
 
-## Installation
+To run the QuizPlanner program, you need:
 
-1. Ensure you have Java Runtime Environment (JRE) installed on your computer.
-2. Download the latest release of the Java Quiz Planner from the [releases page](https://github.com/your-username/your-repo/releases).
-3. Unzip the downloaded file to your preferred location.
-4. Open the application by running `java -jar QuizPlanner.jar` in your terminal/command prompt.
+- Java Development Kit (JDK) installed on your computer.
+- A Java IDE (Integrated Development Environment) or a command-line environment to compile and run the Java program.
 
 ## Usage
 
-1. Launch the Java Quiz Planner.
-2. Create a new quiz or open an existing one.
-3. Add questions and answer choices to your quiz.
-4. Customize quiz settings as needed.
-5. Save your quiz.
-6. Export your quiz in your preferred format.
-7. Share or use the exported quiz.
+1. Clone the repository to your local machine using Git:
 
-## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+2. Open the project in your Java IDE or navigate to the project directory in your terminal/command prompt.
+
+3. Compile and run the `QuizPlanner.java` file to start the QuizPlanner program.
+
+4. Follow the on-screen instructions to create, take, view, or list quizzes.
+
+## Features
+
+- **Quiz Creation**: Create new quizzes with customizable names and multiple-choice questions. Specify the correct choice for each question.
+
+- **Quiz Taking**: Take quizzes by selecting answers to questions. Receive immediate feedback on whether your answers are correct and view your final score.
+
+- **Quiz Viewing**: View details of a specific quiz, including its name, questions, and correct answers.
+
+- **Quiz Listing**: List all available quizzes.
+
+- **Interactive Interface**: The program provides an interactive command-line interface for a user-friendly experience.
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the development of this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, suggestions, or issues, please feel free to reach out to us:
-
-- Email: pankajbind30@gmail.com
-- GitHub: [Your GitHub Profile](https://github.com/Pankaj-Bind)
-
-## Acknowledgments
-
-We would like to thank the open-source community and the following libraries/tools for their contributions to this project:
-
-- Library/Tool 1
-- Library/Tool 2
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-**Note:** This README is a template. Please replace the placeholder information with details specific to your project.
+Enjoy using QuizPlanner for creating, taking, and managing quizzes. It's a versatile tool that can be used for educational purposes, testing, and more.
